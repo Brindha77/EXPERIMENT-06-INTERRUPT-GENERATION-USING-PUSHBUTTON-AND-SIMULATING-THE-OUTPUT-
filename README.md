@@ -85,18 +85,17 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
-
-  
-
 ## STM 32 CUBE PROGRAM :
 
 
 
+
 ## Output screen shots of proteus  :
- 
- 
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
- 
+![PM EX 6 ON](https://github.com/Brindha77/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/118889143/671cba8d-cf43-4fc0-9bab-a4f8ae782b40)
+![PM EX6 OF](https://github.com/Brindha77/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/118889143/3298519c-e818-4793-a732-eac022243540)
+
+## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+![PM EX6](https://github.com/Brindha77/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/118889143/b71e9db2-155b-49e7-9166-d23836d76364)
+
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
